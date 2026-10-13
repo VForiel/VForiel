@@ -26,13 +26,13 @@ Simulation & tools:\
 [![PhD-Theory](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PhD-Theory)](https://github.com/VForiel/PhD-Theory)
 [![PHISE](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PHISE)](https://github.com/VForiel/PHISE)
 [![Phobos](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PHOBos)](https://github.com/VForiel/PHOBos)
-[![LRFutils](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=LRFutils)](https://github.com/VForiel/LRFutils)
 
 Paper data & codes:\
 [![N4x4_T8-Characterization](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=N4x4_T8-characterization)](https://github.com/VForiel/N4x4_T8-characterization)
 
 # Personnal and Associative projects
 
+[![LRFutils](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=LRFutils)](https://github.com/VForiel/LRFutils)
 [![Bookshelf](https://github-readme-stats.vercel.app/api/pin/?username=mcbookshelf&repo=bookshelf)](https://github.com/mcbookshelf/bookshelf)
 [![Allay Core](https://github-readme-stats.vercel.app/api/pin/?username=Allay-bots&repo=Core)](https://github.com/Allay-bots/Core)
 [![Material Thunderbird](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=Material-Thunderbird)](https://github.com/VForiel/Material-Thunderbird)
