@@ -23,11 +23,11 @@
 # Academic projects
 
 Simulation & tools:\
-[![PhD-Theory](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PhD-Theory)](https://github.com/VForiel/PhD-Theory)
 [![PHISE](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PHISE)](https://github.com/VForiel/PHISE)
 [![Phobos](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PHOBos)](https://github.com/VForiel/PHOBos)
 
-Paper data & codes:\
+Publications data & codes:\
+[![PhD-Theory](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=PhD-Theory)](https://github.com/VForiel/PhD-Theory)
 [![N4x4_T8-Characterization](https://github-readme-stats.vercel.app/api/pin/?username=VForiel&repo=N4x4_T8-characterization)](https://github.com/VForiel/N4x4_T8-characterization)
 
 # Personnal and Associative projects
