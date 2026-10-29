@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="title">
+  <title id="title">11 years on GitHub, 45 public repos, 834 contributions, 1 year, 10 pull requests, 21 issues</title>
+  <style>
+    .big { font: 400 44px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #1a2233; }
+    .caption { font: 400 15px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #737780; letter-spacing: 0.5px; }
+    .axis { stroke: #737780; stroke-width: 1; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="169" rx="8" fill="#f8f5ee" stroke="#d1ccc2"/>
+  <text x="48" y="36" class="caption">SURVEY · PUBLIC ACTIVITY</text>
+  <text x="1152" y="36" class="caption" text-anchor="end">2026-10-29</text>
+  <text x="48.0" y="110" class="big">11</text>
+  <text x="48.0" y="136" class="caption">years on GitHub</text>
+  <line x1="252.8" y1="70" x2="252.8" y2="140" class="axis" opacity="0.4"/>
+  <text x="268.8" y="110" class="big">45</text>
+  <text x="268.8" y="136" class="caption">public repos</text>
+  <line x1="473.6" y1="70" x2="473.6" y2="140" class="axis" opacity="0.4"/>
+  <text x="489.6" y="110" class="big">834</text>
+  <text x="489.6" y="136" class="caption">contributions, 1 year</text>
+  <line x1="694.4" y1="70" x2="694.4" y2="140" class="axis" opacity="0.4"/>
+  <text x="710.4" y="110" class="big">10</text>
+  <text x="710.4" y="136" class="caption">pull requests</text>
+  <line x1="915.2" y1="70" x2="915.2" y2="140" class="axis" opacity="0.4"/>
+  <text x="931.2" y="110" class="big">21</text>
+  <text x="931.2" y="136" class="caption">issues</text>
+</svg>
