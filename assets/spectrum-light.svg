@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="title">
+  <title id="title">Languages of 45 public repositories: Python 63 %, HTML 11 %, C 9 %, Astro 5 %, CSS 4 %, TypeScript 3 %</title>
+  <style>
+    .label { font: 400 16px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #1a2233; stroke: #f8f5ee; stroke-width: 6px;
+              paint-order: stroke; }
+    .caption { font: 400 15px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #737780; letter-spacing: 0.5px; }
+    .axis { stroke: #737780; stroke-width: 1; }
+    .emission { fill: #21438d; }
+    .leader { fill: none; stroke: #737780; stroke-width: 1; stroke-dasharray: 2 3; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="8" fill="#f8f5ee" stroke="#d1ccc2"/>
+  <text x="48" y="30" class="caption">EMISSION SPECTRUM · 45 PUBLIC REPOSITORIES · BYTES OF CODE, NOTEBOOKS EXCLUDED</text>
+  <text x="1152" y="30" class="caption" text-anchor="end">2026-10-29</text>
+  <line x1="48" y1="186" x2="1152" y2="186" class="axis"/>
+  <line x1="48.0" y1="186" x2="48.0" y2="191" class="axis"/>
+  <line x1="158.4" y1="186" x2="158.4" y2="191" class="axis"/>
+  <line x1="268.8" y1="186" x2="268.8" y2="191" class="axis"/>
+  <line x1="379.2" y1="186" x2="379.2" y2="191" class="axis"/>
+  <line x1="489.6" y1="186" x2="489.6" y2="191" class="axis"/>
+  <line x1="600.0" y1="186" x2="600.0" y2="191" class="axis"/>
+  <line x1="710.4" y1="186" x2="710.4" y2="191" class="axis"/>
+  <line x1="820.8" y1="186" x2="820.8" y2="191" class="axis"/>
+  <line x1="931.2" y1="186" x2="931.2" y2="191" class="axis"/>
+  <line x1="1041.6" y1="186" x2="1041.6" y2="191" class="axis"/>
+  <line x1="1152.0" y1="186" x2="1152.0" y2="191" class="axis"/>
+  <rect x="145.6" y="108.0" width="3" height="78.0" class="emission" opacity="1.00"/>
+  <rect x="994.5" y="149.8" width="3" height="36.2" class="emission" opacity="0.68"/>
+  <rect x="968.1" y="153.0" width="3" height="33.0" class="emission" opacity="0.66"/>
+  <rect x="471.9" y="160.4" width="3" height="25.6" class="emission" opacity="0.60"/>
+  <rect x="231.0" y="162.9" width="3" height="23.1" class="emission" opacity="0.58"/>
+  <rect x="561.4" y="164.1" width="3" height="21.9" class="emission" opacity="0.57"/>
+  <rect x="1060.3" y="165.0" width="1.5" height="21.0" class="emission" opacity="0.56"/>
+  <rect x="667.9" y="170.2" width="1.5" height="15.8" class="emission" opacity="0.52"/>
+  <rect x="564.2" y="171.9" width="1.5" height="14.1" class="emission" opacity="0.51"/>
+  <rect x="409.6" y="173.2" width="1.5" height="12.8" class="emission" opacity="0.50"/>
+  <rect x="512.3" y="174.9" width="1.5" height="11.1" class="emission" opacity="0.49"/>
+  <rect x="133.1" y="175.2" width="1.5" height="10.8" class="emission" opacity="0.49"/>
+  <rect x="632.3" y="175.4" width="1.5" height="10.6" class="emission" opacity="0.48"/>
+  <rect x="539.8" y="177.3" width="1.5" height="8.7" class="emission" opacity="0.47"/>
+  <rect x="394.4" y="177.7" width="1.5" height="8.3" class="emission" opacity="0.47"/>
+  <rect x="176.8" y="177.8" width="1.5" height="8.2" class="emission" opacity="0.47"/>
+  <rect x="329.3" y="178.2" width="1.5" height="7.8" class="emission" opacity="0.46"/>
+  <rect x="634.3" y="179.1" width="1.5" height="6.9" class="emission" opacity="0.46"/>
+  <path d="M147.1 67 V94 L147.1 106 V105.0" class="leader"/>
+  <path d="M232.5 91 V94 L232.5 106 V159.9" class="leader"/>
+  <path d="M473.4 67 V94 L473.4 106 V157.4" class="leader"/>
+  <path d="M562.9 91 V94 L562.9 106 V161.1" class="leader"/>
+  <path d="M969.6 67 V94 L969.6 106 V150.0" class="leader"/>
+  <path d="M996.0 91 V94 L996.0 106 V146.8" class="leader"/>
+  <text x="147.1" y="62" class="label" text-anchor="middle">Python 63 %</text>
+  <text x="232.5" y="86" class="label" text-anchor="middle">CSS 4 %</text>
+  <text x="473.4" y="62" class="label" text-anchor="middle">Astro 5 %</text>
+  <text x="562.9" y="86" class="label" text-anchor="middle">TypeScript 3 %</text>
+  <text x="969.6" y="62" class="label" text-anchor="middle">C 9 %</text>
+  <text x="996.0" y="86" class="label" text-anchor="middle">HTML 11 %</text>
+  <text x="48" y="218" class="caption">18 languages detected</text>
+</svg>
